@@ -29,7 +29,7 @@ Construido junto com o @alura este sistema
 ### Clone esse respositório:
 
 ```
-git clone https://github.com/leonardo-abe/validador_url
+git clone https://github.com/leonardo-abe/tdd_python_alura
 from unittest import TestCase
 import sys
 ```
