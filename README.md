@@ -6,7 +6,7 @@
  <img src="http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge"/>
  </div>
 
-##🔗 Validador de URLs
+## 🧪 Validador de URLs
 
 > Sistema criado para efetuar testes unitário de cada função do sistema de leilão.
 
